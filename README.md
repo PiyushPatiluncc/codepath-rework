@@ -40,3 +40,9 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+## APP Brainstorming
+1) Spotify- personalized playlists, cross device syncing, Easy access to songs
+2) Tik Tok- personalized feed, easy editing, sharing video feature
+3) Instagram- short videos, direct messaging, sharing videos
+4) Uber Eats- Group ordering, custom orders, real time tracking
